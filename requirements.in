@@ -1,0 +1,10 @@
+numpy
+pandas
+plotly
+scikit-learn
+mysqlclient
+sqlalchemy
+pyspark
+pyspark-stubs
+requests
+
